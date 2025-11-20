@@ -1,31 +1,28 @@
-Python Playground
+# Python Playground
 
-Python Playground is a collection of small experiments, practice scripts, and quick prototypes created during daily learning and exploration. This repository serves as a personal space for trying out concepts, testing ideas, and improving Python skills over time.
 
-Although the project does not follow a fixed structure, it reflects continuous growth and evolving understanding of Python. New experiments and updates will be added regularly in the future.
+A continuously evolving collection of Python experiments, utilities, practice scripts, and concept demonstrations. This repository serves as a personal sandbox for learning, testing ideas, and refining problem‑solving skills over time.
 
-📌 Purpose of the Repository
 
-To store small Python experiments and practice code
+## 🚀 Purpose
+- Explore Python concepts through hands‑on experiments
+- Store useful snippets and mini‑projects
+- Maintain a growing archive of personal learning progress
+- Keep code organized for future revision and improvement
 
-To document progress while learning Python
 
-To serve as a reference for revisiting and improving past ideas
+## 📌 Highlights
+- Cleanly structured folders based on topic or experiment
+- Frequent updates as new ideas are tested
+- Beginner‑friendly patterns mixed with advanced explorations
 
-🚀 Status
 
-This repository receives continuous updates, refactoring, and new additions as learning progresses.
+## 🔄 Continuous Updates
+This repository receives regular additions, improvements, and refactoring. As new concepts are explored, more scripts and folders will be added.
 
-📂 Folder Structure
 
-The structure may change based on future updates, but currently includes:
-
-tests/ — simple test scripts
-
-experiments/ — quick prototypes
-
-snippets/ — reusable small code pieces
-
-📜 License
-
-This project is intended for personal learning and experimentation.
+## 📁 Folder Structure (may expand over time)
+- **basics/** – Fundamental Python tests
+- **algorithms/** – Logic implementations and patterns
+- **projects/** – Small experimental tools or prototypes
+- **random-tests/** – Quick experiments, debugging, trial code
