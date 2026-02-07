@@ -7,26 +7,26 @@ python-handbook/
 │   └── 00.5 first-program.md
 
 ├── 01-foundations/
-│   ├── 01.01 python hello-world.md
-│   ├── 01.02 python program-structure.md
-│   ├── 01.03 python comments.md
-│   ├── 01.04 python print.md
-│   ├── 01.05 python input.md
-│   ├── 01.06 python escape-sequences.md
-│   ├── 01.07 python indentation.md
-│   ├── 01.08 python interpreted-vs-compiled.md
-│   ├── 01.09 python variables.md
-│   ├── 01.10 python dynamic-typing.md
-│   ├── 01.11 python type-functions.md
-│   ├── 01.12 python int.md
-│   ├── 01.13 python float.md
-│   ├── 01.14 python complex.md
-│   ├── 01.15 python bool.md
-│   ├── 01.16 python none.md
-│   ├── 01.17 python type-conversion.md
-│   ├── 01.18 python constants.md
-│   ├── 01.19 python naming-conventions.md
-│   └── 01.20 python common-mistakes.md
+│   ├── 01.01 py hello-world.md
+│   ├── 01.02 py program-structure.md
+│   ├── 01.03 py comments.md
+│   ├── 01.04 py print.md
+│   ├── 01.05 py input.md
+│   ├── 01.06 py escape-sequences.md
+│   ├── 01.07 py indentation.md
+│   ├── 01.08 py interpreted-vs-compiled.md
+│   ├── 01.09 py variables.md
+│   ├── 01.10 py dynamic-typing.md
+│   ├── 01.11 py type-functions.md
+│   ├── 01.12 py int.md
+│   ├── 01.13 py float.md
+│   ├── 01.14 py complex.md
+│   ├── 01.15 py bool.md
+│   ├── 01.16 py none.md
+│   ├── 01.17 py type-conversion.md
+│   ├── 01.18 py constants.md
+│   ├── 01.19 py naming-conventions.md
+│   └── 01.20 py common-mistakes.md
 
 ├── 02-operators/
 │   ├── 02.01 py arithmetic.md
