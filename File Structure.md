@@ -60,15 +60,15 @@ python-handbook/
 ├── 04-data-structures/
 │
 │   ├── strings/
-│   │   ├── 04.1 basics.md
-│   │   ├── 04.2 indexing.md
-│   │   ├── 04.3 slicing.md
-│   │   ├── 04.4 immutability.md
-│   │   ├── 04.5 methods-1.md
-│   │   ├── 04.6 methods-2.md
-│   │   ├── 04.7 formatting.md
-│   │   ├── 04.8 validation.md
-│   │   ├── 04.9 encoding.md
+│   │   ├── 04.01 basics.md
+│   │   ├── 04.02 indexing.md
+│   │   ├── 04.03 slicing.md
+│   │   ├── 04.04 immutability.md
+│   │   ├── 04.05 methods-1.md
+│   │   ├── 04.06 methods-2.md
+│   │   ├── 04.07 formatting.md
+│   │   ├── 04.08 validation.md
+│   │   ├── 04.09 encoding.md
 │   │   └── 04.10 mistakes.md
 │
 │   ├── lists/
@@ -109,15 +109,15 @@ python-handbook/
 │       └── 04.39 mistakes.md
 
 ├── 05-functions/
-│   ├── 05.1 basics.md
-│   ├── 05.2 calling.md
-│   ├── 05.3 parameters.md
-│   ├── 05.4 return.md
-│   ├── 05.5 none.md
-│   ├── 05.6 positional.md
-│   ├── 05.7 keyword.md
-│   ├── 05.8 default.md
-│   ├── 05.9 starargs.md
+│   ├── 05.01 basics.md
+│   ├── 05.02 calling.md
+│   ├── 05.03 parameters.md
+│   ├── 05.04 return.md
+│   ├── 05.05 none.md
+│   ├── 05.06 positional.md
+│   ├── 05.07 keyword.md
+│   ├── 05.08 default.md
+│   ├── 05.09 starargs.md
 │   ├── 05.10 kwargs.md
 │   ├── 05.11 ordering.md
 │   ├── 05.12 docstrings.md
@@ -131,26 +131,26 @@ python-handbook/
 │   └── 05.20 real-examples.md
 
 ├── 06-modules/
-│   ├── 06.1 creating.md
-│   ├── 06.2 import.md
-│   ├── 06.3 from-import.md
-│   ├── 06.4 alias.md
-│   ├── 06.5 main.md
-│   ├── 06.6 sys-path.md
-│   ├── 06.7 reload.md
-│   ├── 06.8 packages.md
-│   └── 06.9 relative.md
+│   ├── 06.01 creating.md
+│   ├── 06.02 import.md
+│   ├── 06.03 from-import.md
+│   ├── 06.04 alias.md
+│   ├── 06.05 main.md
+│   ├── 06.06 sys-path.md
+│   ├── 06.07 reload.md
+│   ├── 06.08 packages.md
+│   └── 06.09 relative.md
 
 ├── 07-files/
-│   ├── 07.1 open.md
-│   ├── 07.2 modes.md
-│   ├── 07.3 read.md
-│   ├── 07.4 write.md
-│   ├── 07.5 close.md
-│   ├── 07.6 with.md
-│   ├── 07.7 seek.md
-│   ├── 07.8 csv.md
-│   ├── 07.9 json.md
+│   ├── 07.01 open.md
+│   ├── 07.02 modes.md
+│   ├── 07.03 read.md
+│   ├── 07.04 write.md
+│   ├── 07.05 close.md
+│   ├── 07.06 with.md
+│   ├── 07.07 seek.md
+│   ├── 07.08 csv.md
+│   ├── 07.09 json.md
 │   ├── 07.10 text.md
 │   ├── 07.11 os.md
 │   ├── 07.12 shutil.md
@@ -158,27 +158,27 @@ python-handbook/
 │   └── 07.14 examples.md
 
 ├── 08-errors/
-│   ├── 08.1 try.md
-│   ├── 08.2 multiple.md
-│   ├── 08.3 else.md
-│   ├── 08.4 finally.md
-│   ├── 08.5 builtins.md
-│   ├── 08.6 raise.md
-│   ├── 08.7 custom.md
-│   ├── 08.8 assert.md
-│   ├── 08.9 chaining.md
+│   ├── 08.01 try.md
+│   ├── 08.02 multiple.md
+│   ├── 08.03 else.md
+│   ├── 08.04 finally.md
+│   ├── 08.05 builtins.md
+│   ├── 08.06 raise.md
+│   ├── 08.07 custom.md
+│   ├── 08.08 assert.md
+│   ├── 08.09 chaining.md
 │   └── 08.10 debugging.md
 
 ├── 09-oop/
-│   ├── 09.1 class.md
-│   ├── 09.2 object.md
-│   ├── 09.3 variables.md
-│   ├── 09.4 methods.md
-│   ├── 09.5 init.md
-│   ├── 09.6 self.md
-│   ├── 09.7 str-repr.md
-│   ├── 09.8 encapsulation.md
-│   ├── 09.9 property.md
+│   ├── 09.01 class.md
+│   ├── 09.02 object.md
+│   ├── 09.03 variables.md
+│   ├── 09.04 methods.md
+│   ├── 09.05 init.md
+│   ├── 09.06 self.md
+│   ├── 09.07 str-repr.md
+│   ├── 09.08 encapsulation.md
+│   ├── 09.09 property.md
 │   ├── 09.10 getter.md
 │   ├── 09.11 setter.md
 │   ├── 09.12 inheritance.md
@@ -188,66 +188,66 @@ python-handbook/
 │   └── 09.16 examples.md
 
 ├── 10-advanced/
-│   ├── 10.1 generators.md
-│   ├── 10.2 iterators.md
-│   ├── 10.3 decorators.md
-│   ├── 10.4 wraps.md
-│   ├── 10.5 context-managers.md
-│   ├── 10.6 async.md
-│   ├── 10.7 asyncio.md
-│   ├── 10.8 regex.md
-│   ├── 10.9 metaclasses.md
+│   ├── 10.01 generators.md
+│   ├── 10.02 iterators.md
+│   ├── 10.03 decorators.md
+│   ├── 10.04 wraps.md
+│   ├── 10.05 context-managers.md
+│   ├── 10.06 async.md
+│   ├── 10.07 asyncio.md
+│   ├── 10.08 regex.md
+│   ├── 10.09 metaclasses.md
 │   └── 10.10 memory.md
 
 ├── 11-standard-library/
-│   ├── 11.1 math.md
-│   ├── 11.2 random.md
-│   ├── 11.3 datetime.md
-│   ├── 11.4 time.md
-│   ├── 11.5 json.md
-│   ├── 11.6 re.md
-│   ├── 11.7 collections.md
-│   ├── 11.8 itertools.md
-│   ├── 11.9 functools.md
+│   ├── 11.01 math.md
+│   ├── 11.02 random.md
+│   ├── 11.03 datetime.md
+│   ├── 11.04 time.md
+│   ├── 11.05 json.md
+│   ├── 11.06 re.md
+│   ├── 11.07 collections.md
+│   ├── 11.08 itertools.md
+│   ├── 11.09 functools.md
 │   ├── 11.10 argparse.md
 │   └── 11.11 os-sys.md
 
 ├── 12-quality/
-│   ├── 12.1 pep8.md
-│   ├── 12.2 naming.md
-│   ├── 12.3 docstrings.md
-│   ├── 12.4 typing.md
-│   ├── 12.5 mypy.md
-│   ├── 12.6 unittest.md
-│   ├── 12.7 pytest.md
-│   ├── 12.8 black.md
-│   └── 12.9 flake8.md
+│   ├── 12.01 pep8.md
+│   ├── 12.02 naming.md
+│   ├── 12.03 docstrings.md
+│   ├── 12.04 typing.md
+│   ├── 12.05 mypy.md
+│   ├── 12.06 unittest.md
+│   ├── 12.07 pytest.md
+│   ├── 12.08 black.md
+│   └── 12.09 flake8.md
 
 ├── 13-performance/
-│   ├── 13.1 timeit.md
-│   ├── 13.2 profiling.md
-│   ├── 13.3 memory.md
-│   ├── 13.4 optimization.md
-│   └── 13.5 caching.md
+│   ├── 13.01 timeit.md
+│   ├── 13.02 profiling.md
+│   ├── 13.03 memory.md
+│   ├── 13.04 optimization.md
+│   └── 13.05 caching.md
 
 ├── 14-patterns/
-│   ├── 14.1 eafp.md
-│   ├── 14.2 lbly.md
-│   ├── 14.3 best-practices.md
-│   └── 14.4 anti-patterns.md
+│   ├── 14.01 eafp.md
+│   ├── 14.02 lbly.md
+│   ├── 14.03 best-practices.md
+│   └── 14.04 anti-patterns.md
 
 ├── 15-mini-projects/
-│   ├── 15.1 calculator-cli.md
-│   ├── 15.2 file-organizer.md
-│   ├── 15.3 password-generator.md
-│   ├── 15.4 json-parser.md
-│   ├── 15.5 log-analyzer.md
-│   ├── 15.6 todo-cli.md
-│   ├── 15.7 system-info-tool.md
-│   └── 15.8 url-downloader.md
+│   ├── 15.01 calculator-cli.md
+│   ├── 15.02 file-organizer.md
+│   ├── 15.03 password-generator.md
+│   ├── 15.04 json-parser.md
+│   ├── 15.05 log-analyzer.md
+│   ├── 15.06 todo-cli.md
+│   ├── 15.07 system-info-tool.md
+│   └── 15.08 url-downloader.md
 
 └── 99-appendix/
-    ├── 99.1 cheatsheet.md
-    ├── 99.2 glossary.md
-    ├── 99.3 mistakes.md
-    └── 99.4 roadmap-advanced.md
+    ├── 99.01 cheatsheet.md
+    ├── 99.02 glossary.md
+    ├── 99.03 mistakes.md
+    └── 99.04 roadmap-advanced.md
