@@ -41,15 +41,15 @@ python-handbook/
 │   └── 02.10 py examples.md
 
 ├── 03-control-flow/
-│   ├── 03.1 if.md
-│   ├── 03.2 if-else.md
-│   ├── 03.3 elif.md
-│   ├── 03.4 nested-if.md
-│   ├── 03.5 match-case.md
-│   ├── 03.6 while.md
-│   ├── 03.7 for.md
-│   ├── 03.8 break.md
-│   ├── 03.9 continue.md
+│   ├── 03.01 if.md
+│   ├── 03.02 if-else.md
+│   ├── 03.03 elif.md
+│   ├── 03.04 nested-if.md
+│   ├── 03.05 match-case.md
+│   ├── 03.06 while.md
+│   ├── 03.07 for.md
+│   ├── 03.08 break.md
+│   ├── 03.09 continue.md
 │   ├── 03.10 pass.md
 │   ├── 03.11 loop-else.md
 │   ├── 03.12 range.md
