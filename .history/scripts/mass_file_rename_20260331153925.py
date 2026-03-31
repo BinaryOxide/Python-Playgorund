@@ -67,7 +67,7 @@ def main():
         filename = os.path.basename(file_path)
         name, ext = os.path.splitext(filename)
 
-        new_name = f"{str(index).zfill(padding)}_cpp_note_intercentury{ext}"
+        new_name = f"{str(index).zfill(padding)}_{ext}"
         new_path = os.path.join(dest_folder, new_name)
 
         try:
