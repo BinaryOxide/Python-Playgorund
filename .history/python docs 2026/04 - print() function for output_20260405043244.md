@@ -1,4 +1,4 @@
-
+Here's the Python documentation for the `print()` function, following the same style as your previous docs:
 
 # 04 - print() Function for Output in Python
 
