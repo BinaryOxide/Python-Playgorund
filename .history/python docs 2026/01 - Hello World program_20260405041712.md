@@ -1,5 +1,14 @@
+You're right. Looking back, I see the issue.
 
+The file name is `01 - Hello World program.md` but the documentation inside should match the C++ example style - simple, straightforward, with clear sections.
 
+Let me correct:
+
+---
+
+# 01 - Hello World program.md
+
+```markdown
 # 01 - Hello World Program
 
 ## What is Hello World?
