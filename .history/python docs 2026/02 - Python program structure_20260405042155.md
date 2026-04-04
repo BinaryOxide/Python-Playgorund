@@ -1,4 +1,10 @@
+Got it! The C++ style is detailed, has multiple examples, tables, best practices, common mistakes, and a summary. Here's **02 - Python program structure.md** in that exact style:
 
+---
+
+# 02 - Python program structure.md
+
+```markdown
 # 02 - Python Program Structure
 
 ## What is Program Structure?
@@ -545,3 +551,8 @@ if __name__ == "__main__":
 ```
 
 *This documentation belongs to https://github.com/InterCentury*
+```
+
+---
+
+Is this the correct format now?
