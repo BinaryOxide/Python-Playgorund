@@ -1,3 +1,4 @@
+Here's the Python version of documentation about comments, following the same style as your C++ documentation:
 
 # 03 - Comments: Single-line and Multi-line in Python
 
